@@ -28,6 +28,7 @@
 </p>
 <p>
 Печатная плата инжектора PoE c грозозащитной v2.<br>
+22x55mm<br>
 <img src="./Boards/GrozaV2/image.jpg" width="40%"><br>
 <a href="./Boards/GrozaV2/GrozaV2.zip">Разводка</a>
 </p>
